@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="80" started-at="2016-11-15T06:50:59Z" finished-at="2016-11-15T06:51:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="80" started-at="2016-11-15T06:50:59Z" finished-at="2016-11-15T06:51:00Z">
+      <class name="com.exercise.addintoDictTest">
+        <test-method status="PASS" signature="testHashMapInsert()[pri:0, instance:com.exercise.addintoDictTest@71f2a7d5]" name="testHashMapInsert" duration-ms="25" started-at="2016-11-14T22:51:00Z" finished-at="2016-11-14T22:51:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHashMapInsert -->
+        <test-method status="PASS" signature="testHashMapUpdate()[pri:0, instance:com.exercise.addintoDictTest@71f2a7d5]" name="testHashMapUpdate" duration-ms="1" started-at="2016-11-14T22:51:00Z" finished-at="2016-11-14T22:51:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHashMapUpdate -->
+      </class> <!-- com.exercise.addintoDictTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

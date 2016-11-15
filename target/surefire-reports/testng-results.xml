@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.exercise.addintoDictTest" duration-ms="38" started-at="2016-11-14T22:48:01Z" finished-at="2016-11-14T22:48:01Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="38" started-at="2016-11-14T22:48:01Z" finished-at="2016-11-14T22:48:01Z">
+      <class name="com.exercise.addintoDictTest">
+        <test-method status="PASS" signature="testHashMapInsert()" name="testHashMapInsert" duration-ms="14" started-at="2016-11-14T22:48:01Z" finished-at="2016-11-14T22:48:01Z">
+        </test-method>
+        <test-method status="PASS" signature="testHashMapUpdate()" name="testHashMapUpdate" duration-ms="1" started-at="2016-11-14T22:48:01Z" finished-at="2016-11-14T22:48:01Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
